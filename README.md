@@ -1,6 +1,6 @@
 
 # link Untuk install aplikasi Termux
-https://f-droid.org/id/packages/com.termux/
+https://f-droid.org/repo/com.termux_1022.apk
 # link download vpn super unlimited premium apk
 https://www.mediafire.com/file/64r3ihtn55wawmp/VPN_Super_2.11.1.apk/file
 # link play store Vpn Super unlimited free apk
