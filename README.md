@@ -20,7 +20,7 @@ python program. py
 https://github.com/user-attachments/assets/034fa28d-bbf5-4d9f-86c0-0e64e72c1960
 
 # Banjirkan UDP TCP ICMP HTTP DNS Slowloris DOMAIN adalah jenis serangan Penolakan Layanan Terdistribusi (DDoS) yang membanjiri server target dengan paket Protokol Datagram Pengguna (UDP) dalam jumlah besar, sehingga server atau jaringan tidak dapat diakses oleh pengguna yang sah. Penyerang mengirimkan sejumlah besar paket UDP, seringkali dengan alamat IP sumber palsu, ke port acak di sistem target. Upaya server untuk memproses setiap paket, memeriksa aplikasi yang mendengarkan, dan merespons dengan pesan "tidak dapat dijangkau" menghabiskan sumber dayanya, yang menyebabkan penolakan layanan ✨😬
-
+![Image](https://github.com/user-attachments/assets/26e1e998-6af0-49d9-8ad8-8d9a869c5700)
 # install slowhttptest Distro Ubuntu Untuk Ddos Attack 
 ```
 pkg install proot-distro
