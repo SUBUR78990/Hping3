@@ -1,7 +1,9 @@
+# link download vpn super unlimited premium 
+https://www.mediafire.com/file/64r3ihtn55wawmp/VPN_Super_2.11.1.apk/file
+# link play store 
+https://play.google.com/store/apps/details?id=com.free.vpn.super.hotspot.open
 
-
-# Jalan kan Printah ini
-# Salin & Tempel Di Aplikasi Termux Kalian 
+# Jalan kan Printah ini, Salin & Tempel Di Aplikasi Termux Kalian 
 ```
 pkg update
 apt upgrade -y
