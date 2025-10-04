@@ -1,6 +1,7 @@
-# Hping3
-Gunakan Dengan bijak Sesuai instruksi, Author Tidak Bertanggung jawab jika Anda Menyalagunakan Program ini
 
+Gunakan Dengan bijak Sesuai instruksi,
+Author Tidak Bertanggung jawab jika Anda Menyalagunakan Program ini
+# Jalan kan Printah ini di aplikasi termux kalian 
 ```
 pkg update
 apt upgrade -y
