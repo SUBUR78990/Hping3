@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python program. py
 ```
 https://github.com/user-attachments/assets/034fa28d-bbf5-4d9f-86c0-0e64e72c1960
-
+Banjir UDP adalah jenis serangan Penolakan Layanan Terdistribusi (DDoS) yang membanjiri server target dengan paket Protokol Datagram Pengguna (UDP) dalam jumlah besar, sehingga server atau jaringan tidak dapat diakses oleh pengguna yang sah. Penyerang mengirimkan sejumlah besar paket UDP, seringkali dengan alamat IP sumber palsu, ke port acak di sistem target. Upaya server untuk memproses setiap paket, memeriksa aplikasi yang mendengarkan, dan merespons dengan pesan "tidak dapat dijangkau" menghabiskan sumber dayanya, yang menyebabkan penolakan layanan ✨😬
 # install slowhttptest Distro Ubuntu Untuk Ddos Attack 
 ```
 pkg install proot-distro
