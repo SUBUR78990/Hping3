@@ -1,10 +1,11 @@
 # KALI-LINUX
 <img width="640" height="272" alt="Image" src="https://github.com/user-attachments/assets/d3e322bd-37d6-41a3-87fe-721da32ca694" />
-~ link Untuk install aplikasi Termux
+
+# link Untuk install aplikasi Termux
 https://f-droid.org/repo/com.termux_1022.apk
-~ link download vpn super unlimited premium apk
+# link download vpn super unlimited premium apk
 https://www.mediafire.com/file/64r3ihtn55wawmp/VPN_Super_2.11.1.apk/file
-~ link play store Vpn Super unlimited free apk
+# link play store Vpn Super unlimited free apk
 https://play.google.com/store/apps/details?id=com.free.vpn.super.hotspot.open
 
 # Jalan kan Printah ini, Salin & Tempel Di Aplikasi Termux Kalian 
