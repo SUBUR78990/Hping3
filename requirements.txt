@@ -14,3 +14,4 @@ dns-client
 cloudscraper
 fake-useragent
 beautifulsoup4
+termcolor
