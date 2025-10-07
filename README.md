@@ -7,7 +7,9 @@ https://f-droid.org/repo/com.termux_1022.apk
 https://www.mediafire.com/file/64r3ihtn55wawmp/VPN_Super_2.11.1.apk/file
 # link play store Vpn Super unlimited free apk
 https://play.google.com/store/apps/details?id=com.free.vpn.super.hotspot.open
-
+---------------------------------------------------
+# Jangan Kwatir Program ini Sangat Canggih Jika Target Mokad , Handphone Anda Akan Restart Sendiri nya , Agar Alamat Ip & Device kalian Aman tidak terdeteksi Oleh Situs Target 
+---------------------------------------------------
 # Jalan kan Printah ini, Salin & Tempel Di Aplikasi Termux Kalian 
 ```
 pkg update
